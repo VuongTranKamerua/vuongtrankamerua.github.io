@@ -1,20 +1,19 @@
-<h1 align="center">Hello, My Name Is Anh Thư, But Prefer To Be Called Turtl 💙🐢</h1>
+<h1 align="center">Hello, My Name Is Turtl, or Kamerua 💙🐢</h1>
 
 <b>📝About me:</b>
 - I'm from <img src="https://img.icons8.com/external-vitaliy-gorbachev-flat-vitaly-gorbachev/58/null/external-vietnam-flags-vitaliy-gorbachev-flat-vitaly-gorbachev.png" style="width:20px; height:20px;">
-- I'm a student of <img src="https://img.icons8.com/fluency/48/null/school-building.png" style="width:20px; height:20px;" alt="school"> [Ho Chi Minh City University of Foreign Languages and Information Technology](https://huflit.edu.vn) (HUFLIT)
 - I'm currently studying <img src="https://img.icons8.com/dusk/64/null/monitor--v1.png" style="width:20px; height:20px;"> Software Engineering.
 <p> p/s: I want to learn more knowledge about game development <p>
 
 <h2>☎️ Want to contact with me?</h2>
 <div>
-  <a href="https://www.facebook.com/vuong.tran.2001/">
+  <a href="https://facebook.com/profile.php?id=61584162235851">
     <img src="https://img.icons8.com/color/48/null/facebook-new.png">
   </a>
-  <a href="https://github.com/VuongTranKameru">
+  <a href="https://github.com/VuongTranKamerua">
     <img src="https://img.icons8.com/fluency/48/null/github.png">
   </a>
-  <a href="mailto:0918051090t@gmail.com">
+  <a href="mailto:loaiduacomai@gmail.com">
     <img src="https://img.icons8.com/fluency/48/null/gmail.png">
   </a>
 </div>
