@@ -1,0 +1,16 @@
+name: Build Jekyll for GitHub Pages
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    run-on: windows-latest
+    steps:
+    - name: Install Jekyll
+      uses: actions/jekyll-build-pages@v1.0.13
+      with:
+        # Directory where the source files reside.
+        source: "./github/jekyll"
+        # Output directory of the build. Although it can be nested inside the source, it cannot be the same as the source directory.
+        destination: "."
