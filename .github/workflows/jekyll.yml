@@ -7,7 +7,7 @@ on:
 
 jobs:
   deploy:
-    runs-on: windows-latest
+    runs-on: ubuntu-latest
     steps:
     - name: "Install Jekyll"
       uses: actions/jekyll-build-pages@v1.0.13
